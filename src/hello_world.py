@@ -2,7 +2,7 @@ def get_name():
 	return input("What's your name?\n")
 
 def display_name(name):
-	print(f"Hello {name}!")
+	print(f"Hello {name}")
 
 
 
